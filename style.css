@@ -1,0 +1,19 @@
+
+h1{ color: blue}
+
+*{background-color: pink;
+    border:solid;
+}
+
+.header{
+    background-color: lightsalmon;
+    display : flex;
+    justify-content: space-evenly;
+    
+}
+.games{
+    display : flex;
+    justify-content: flex-start;
+}
+
+
